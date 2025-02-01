@@ -1,0 +1,3 @@
+New File 3
+New file changes
+New file changes include additional lines.
